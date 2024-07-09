@@ -1,0 +1,9 @@
+D:\Projects\SmartWires\DemoApps\ThemeApp\WindowsFormsTheme\WindowsFormsTheme\bin\Debug\WindowsFormsTheme.exe
+D:\Projects\SmartWires\DemoApps\ThemeApp\WindowsFormsTheme\WindowsFormsTheme\bin\Debug\WindowsFormsTheme.pdb
+D:\Projects\SmartWires\DemoApps\ThemeApp\WindowsFormsTheme\WindowsFormsTheme\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SmartWires\DemoApps\ThemeApp\WindowsFormsTheme\WindowsFormsTheme\obj\Debug\WindowsFormsTheme.Form1.resources
+D:\Projects\SmartWires\DemoApps\ThemeApp\WindowsFormsTheme\WindowsFormsTheme\obj\Debug\WindowsFormsTheme.Properties.Resources.resources
+D:\Projects\SmartWires\DemoApps\ThemeApp\WindowsFormsTheme\WindowsFormsTheme\obj\Debug\WindowsFormsTheme.csproj.GenerateResource.Cache
+D:\Projects\SmartWires\DemoApps\ThemeApp\WindowsFormsTheme\WindowsFormsTheme\obj\Debug\WindowsFormsTheme.exe
+D:\Projects\SmartWires\DemoApps\ThemeApp\WindowsFormsTheme\WindowsFormsTheme\obj\Debug\WindowsFormsTheme.pdb
+D:\Projects\SmartWires\DemoApps\ThemeApp\WindowsFormsTheme\WindowsFormsTheme\obj\Debug\WindowsFormsTheme.UserControl1.resources
